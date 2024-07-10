@@ -1,3 +1,1 @@
-#Demo
-
-Some description
+This is a demo repository for Github 
